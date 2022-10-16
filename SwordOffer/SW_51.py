@@ -3,7 +3,7 @@ create in   : 2022/9/6 16:15
 @author     : Psycholab.ljz 
 @description: 找出数组中重复的数字出现的次数
 """
-from typing import List
+
 
 num_list = []
 
